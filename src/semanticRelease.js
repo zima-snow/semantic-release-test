@@ -5,7 +5,7 @@ const execSemanticRelease = async () => {
     const result = await semanticRelease({
       // Core options
       branch: 'master',
-      // repositoryUrl: 'https://github.com/me/my-package.git',
+      repositoryUrl: 'https://github.com/zima-snow/semantic-release-test.git',
       // Shareable config
       // extends: 'my-shareable-config',
       // Plugin options

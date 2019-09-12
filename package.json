@@ -5,10 +5,12 @@
   "main": "index.js",
   "license": "MIT",
   "private": true,
+  "repository": "https://github.com/zima-snow/semantic-release-test.git",
   "scripts": {
     "start": "node src/index.js"
   },
   "dependencies": {
+    "dotenv": "^8.1.0",
     "semantic-release": "^15.13.24"
   }
 }

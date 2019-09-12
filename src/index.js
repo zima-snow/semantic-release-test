@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const execSemanticRelease = require('./semanticRelease');
 
 const main = async () => {
