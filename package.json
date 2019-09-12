@@ -1,0 +1,14 @@
+{
+  "name": "semantic-release",
+  "version": "1.0.0",
+  "description": "Test project for semantic-release library checking",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "semantic-release": "^15.13.24"
+  }
+}
